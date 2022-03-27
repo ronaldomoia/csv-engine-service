@@ -1,11 +1,11 @@
 # csv-engine-service
 Backend to read and treat CSV file
 
-First Step - Install
+1- git clone git@github.com:ronaldomoia/csv-engine-service.git
 
-To start you need clone this project
-git clone git@github.com:ronaldomoia/csv-engine-service.git
-Install dependencies with yarn install
+2- Install dependencies with yarn install
+
+3- Start service using yarn dev
 
 Nodejs Version used
 v14.19.1
