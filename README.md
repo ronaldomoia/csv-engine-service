@@ -7,5 +7,7 @@ Backend to read and treat CSV file
 
 3- Start service using yarn dev
 
+4- yarn jest to run tests
+
 Nodejs Version used
 v14.19.1
